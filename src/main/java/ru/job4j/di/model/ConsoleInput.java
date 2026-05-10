@@ -10,4 +10,5 @@ public class ConsoleInput {
         System.out.print(question);
         return scanner.nextLine();
     }
+
 }
